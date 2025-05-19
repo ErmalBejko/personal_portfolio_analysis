@@ -1,0 +1,6 @@
+gdown==5.2.0
+krakenex==2.2.2
+matplotlib==3.9.2
+numpy==2.1.0
+pandas==2.2.2
+seaborn==0.13.2
